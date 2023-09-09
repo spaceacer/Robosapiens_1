@@ -7,16 +7,15 @@ sideways. There are three marks on the plane, each spaced 15 cm apart, and
 the width of each successive section of the incline decreases by 5 cm. You
 will score 10 points for passing the first mark, 30 points for passing the
 second, and 70 points for passing the final mark.
-Fig 1 : Inclined Plane
+Fig 1: Inclined Plane
 Keep in mind that you won't receive any points for rolling the ball over without
 passing any checkpoints, and that each checkpoint adds the aforementioned
 score separately.
 
 What we did:
-The concept of our bot was moodularity
-To ensure that the ball did not go sideways while climbing we attached two carboard rectangular pieces using parts from mechanix kit and screws.
-The ball was supported by the flat piece inbuilt in the white metal chasis
-After the problem was successfully solved, we unscrews the cardboard pieces
-
+The concept of our bot was modularity
+We attached two cardboard rectangular pieces using parts from Mechanix kit and screws to ensure that the ball did not go sideways while climbing
+The ball was supported by the flat piece built in the white metal chassis
+After the problem was successfully solved, we unscrewed the cardboard pieces
 
 
